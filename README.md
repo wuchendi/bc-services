@@ -1,7 +1,9 @@
 # 百家乐 Telegram Bot
 
 > [!WARNING]
-> This repository has been moved to: [baccarat](https://github.com/WuChenDi/projects/tree/main/apps/baccarat)
+> This repository is archived and superseded by [Baccarat](https://github.com/wuchendi/baccarat): multi-room baccarat for Telegram groups with bot-hosted rounds, a Mini App betting table and an operations console, all on one Cloudflare Worker ([live](https://bac.cdlab.workers.dev/)).
+>
+> The content below documents the original dice-based bot kept here for reference; it is no longer maintained.
 
 一个部署在 Cloudflare Workers 上的 Telegram 百家乐游戏机器人，使用 Hono 和 Grammy 框架实现。支持群组游戏、自动化流程、完整百家乐规则以及自动游戏模式。
 
